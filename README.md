@@ -8,4 +8,6 @@
 
 ## The challenge
 
-Your challenge is to build out this results summary component and get it looking as close to the design as possible.
+The challenge is to build out this results summary component and get it looking as close to the design as possible.
+
+As I learn more about HTML and CSS I'll keep on making changes to make the design cleaner and more understandable than before
